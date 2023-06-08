@@ -1,1 +1,2 @@
-# Eks_with_Terraform
+Infrastructure as Code with Terraform
+This repository contains Terraform code to implement the deployment of infrastructure resources in AWS using Infrastructure as Code (IaC) principles. The infrastructure includes the creation of EC2 instances and an EKS cluster with worker nodes. Additionally, the Terraform state is managed remotely using AWS S3 and state locking is enabled with DynamoDB.
